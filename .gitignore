@@ -137,3 +137,4 @@ clippy_*.txt
 fmt_*.txt
 rust_test*.txt
 tauri_test*.txt
+!.env.example
